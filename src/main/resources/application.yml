@@ -1,0 +1,11 @@
+camel:
+  springboot:
+    name: Hereos Camel
+    main-run-controller: true
+server:
+  port: 8080
+  
+hero: 
+  api:
+    path:
+      localhost:8081/api/v1
